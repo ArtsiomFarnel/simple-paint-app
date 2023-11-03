@@ -1,0 +1,7 @@
+C:\Users\Govnuck\Desktop\Paint\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\Govnuck\Desktop\Paint\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\Govnuck\Desktop\Paint\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\Govnuck\Desktop\Paint\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+C:\Users\Govnuck\Desktop\Paint\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+C:\Users\Govnuck\Desktop\Paint\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\Govnuck\Desktop\Paint\Paint\Paint\obj\Debug\Paint.pdb
